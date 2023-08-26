@@ -33,10 +33,6 @@ We welcome your feedback and contributions to make the Supa Smoothie app even be
 
 Please ensure your contributions align with our [Code of Conduct](CODE_OF_CONDUCT.md).
 
-## License
-
-This project is licensed under the MIT License.
-
 ---
 
 Have fun exploring and creating delicious smoothie recipes with Supa Smoothie! If you have any questions or need assistance, feel free to reach out to our community or the app's maintainers. Enjoy your smoothie journey!
